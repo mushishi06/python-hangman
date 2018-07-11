@@ -10,7 +10,10 @@ Run `from hangman import game` then `game.start()`
 or
 
 >from hangman import Hangman
+
 >newgame = Hangman()
+
 >newgame.setnewword("essence")
+
 >newgame.start()
 
